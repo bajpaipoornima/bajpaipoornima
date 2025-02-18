@@ -1,4 +1,4 @@
-![Banner](https://github.com/Anuragyadav622003/Anuragyadav622003/blob/main/thumb.jpg)
+![Banner](https://github.com/bajpaipoornima/bajpaipoornima/blob/main/istockphoto-1224500457-612x612.webp)
 
 <h1 align="center">Hi 👋, I'm Poomima Bajpai</h1>
 <h3 align="center">Software Developer | Python & C++ Programmer | Full Stack Enthusiast</h3>
