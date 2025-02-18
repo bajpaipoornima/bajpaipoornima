@@ -1,4 +1,4 @@
-![Banner](https://github.com/bajpaipoornima/bajpaipoornima/blob/main/istockphoto-1224500457-612x612.webp)
+![Banner](https://github.com/bajpaipoornima/bajpaipoornima/blob/main/software-development-programming-language-coding-3d-isometric-laptop-computer-with-digital-application-isolated-white-background-design_284092-118.jpg)
 
 <h1 align="center">Hi 👋, I'm Poomima Bajpai</h1>
 <h3 align="center">Software Developer | Python & C++ Programmer | Full Stack Enthusiast</h3>
